@@ -25,10 +25,6 @@ The core of the analysis is encapsulated in the Jupyter notebook script. This sc
 
 The folder holds the visual output results of the analysis. These results are presented in both PDF and JPEG formats, providing a comprehensive view of the analysis outcomes.
 
-### Data
-
-The folder contains compressed CSV files utilized for the analysis. These resources are essential for reproducing the analysis and verifying the results.
-
 ## Getting Started
 
 To begin your analysis or reproduce the results, follow these steps:
