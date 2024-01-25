@@ -1,4 +1,4 @@
-# xDTD Analysis README
+# xDTD Analysis
 
 ## Overview
 
